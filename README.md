@@ -3,7 +3,6 @@
 
 This Power BI project analyzes historical loan application data from a financial institution. It explores borrower behavior, loan performance, and key indicators to support strategic decision-making in credit risk management and product development.
 
----
 
 ## Objective
 
@@ -12,10 +11,10 @@ This Power BI project analyzes historical loan application data from a financial
 - Detect risk through interest rates, DTI, and loan status
 - Optimize lending strategies based on regional and behavioural insights
 
----
 ## 📸 Dashboard Views
 
-> View the full Power BI report [🔗 here](#) 
+
+                                                      View the full Power BI report [🔗 here](#) 
 ![image](https://github.com/user-attachments/assets/bf265ddf-c99d-4bca-8099-17960debebc4)
 
 ![image](https://github.com/user-attachments/assets/5149e603-5e42-403b-a0ea-be44c76e7ef1)
@@ -25,6 +24,7 @@ This Power BI project analyzes historical loan application data from a financial
 
 
 ## Dataset Description
+
 
 | Variable               | Description                                                 |
 |------------------------|-------------------------------------------------------------|
@@ -45,57 +45,61 @@ This Power BI project analyzes historical loan application data from a financial
 | home_ownership         | Home ownership status (e.g., RENT, OWN)                     |
 | issue_date             | Issue date of the loan                                      |
 
----
 
-## 🔍 Key Insights
 
-### 1. 📈 Loan Application Growth
+## Key Insights
+
+### 1. Loan Application Growth
 - **Total Applications**: 38.6K  
 - **MoM Growth**: +6.9%  
 - **Highest Month**: December (4.3K applications)  
-> 📌 Consistent increase throughout the year highlights rising demand and possibly seasonal loan behavior.
+ Consistent increase throughout the year highlights rising demand and possibly seasonal loan behavior.
+                           ![image](https://github.com/user-attachments/assets/78747ee0-8aba-4bb4-a082-b0a73aef335b)
 
----
+     ![image](https://github.com/user-attachments/assets/f983770b-4911-4fed-9308-245a105c9848)
 
-### 2. 🧾 Loan Purpose Distribution
+
+### 2.  Loan Purpose Distribution
 - **Top Purpose**: Debt Consolidation (18K)
 - Followed by Credit Card Loans (5K) and Home Improvement (3K)  
-> 📌 Majority of applicants seek financial restructuring, making this a key focus area for product development.
+ Majority of applicants seek financial restructuring, making this a key focus area for product development.
 
----
+![image](https://github.com/user-attachments/assets/2bda055d-b82e-457c-9443-fc9fbcd96629)
 
-### 3. 🏠 Home Ownership & Borrowing
+
+### 3.  Home Ownership & Borrowing
 - **Renters**: 18K  
 - **Mortgage Holders**: 17K  
-> 📌 Renters dominate the applicant pool; tailored credit strategies may be required to manage risk.
+Renters dominate the applicant pool; tailored credit strategies may be required to manage risk.
 
----
+![image](https://github.com/user-attachments/assets/bbab61e5-6df6-43a3-aebe-c67b6d5cf0a7)
 
-### 4. 👩‍💼 Employment Length Trends
+### 4. Employment Length Trends
 - **10+ Years**: 8.9K applications (most common)  
-> 📌 Longer employment correlates with higher creditworthiness and application volume.
+Longer employment correlates with higher creditworthiness and application volume.
 
----
+![image](https://github.com/user-attachments/assets/221fd074-6597-498e-8c07-96a94c3143f6)
 
-### 5. 🏷️ Loan Grades & Status
+### 5. Loan Grades & Status
 - **Good Loans**: 86.2%  
 - **Bad Loans (Charged Off)**: 13.8%  
 - **Most Funded Grades**: B & C  
-> 📌 High funding in mid-grade loans with good repayment history. Risk increases in Grades D and below.
+High funding in mid-grade loans with good repayment history. Risk increases in Grades D and below.
 
----
+![image](https://github.com/user-attachments/assets/85dd603d-9a31-4631-90d5-046693c8519b)
 
-### 6. 📊 Interest Rate & DTI Analysis
+### 6.  Interest Rate & DTI Analysis
 - **Avg Interest Rate**: 12.0%  
 - **Avg DTI**: 13.3%  
 - **Charged-Off Loans**:
   - Interest Rate: 13.88%
   - DTI: 14.00%  
-> 📌 High-interest loans with DTI > 13% show elevated default rates. Threshold-based monitoring is recommended.
+ High-interest loans with DTI > 13% show elevated default rates. Threshold-based monitoring is recommended.
 
----
+![image](https://github.com/user-attachments/assets/aa9991e4-d9e9-43d7-b454-456b049bbbc2)
 
-## ✅ Recommendations
+
+## Recommendations
 
 1. **Create Specialized Debt Consolidation Products**  
    Tailor offerings for the most popular loan purpose to enhance conversions and reduce risk.
