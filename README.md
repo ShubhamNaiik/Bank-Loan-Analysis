@@ -11,7 +11,7 @@ This Power BI project analyzes historical loan application data from a financial
 - Detect risk through interest rates, DTI, and loan status
 - Optimize lending strategies based on regional and behavioural insights
 
-## 📸 Dashboard Views
+##  Dashboard Views
 
 
                                                       View the full Power BI report [🔗 here](#) 
