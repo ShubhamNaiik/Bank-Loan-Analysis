@@ -13,8 +13,9 @@ This Power BI project analyzes historical loan application data from a financial
 
 ##  Dashboard Views
 
+<p align="center">
+  View the full Power BI report <a href="https://app.powerbi.com/groups/me/reports/92e5a99a-9b1a-48c3-81cf-8d21a191d44e/ac198d86a3098ccb235a?experience=power-bi">HERE</a>
 
-                                                      View the full Power BI report [🔗 here](#) 
 ![image](https://github.com/user-attachments/assets/bf265ddf-c99d-4bca-8099-17960debebc4)
 
 ![image](https://github.com/user-attachments/assets/5149e603-5e42-403b-a0ea-be44c76e7ef1)
